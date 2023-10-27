@@ -6,7 +6,7 @@ import Navbar from '../components/global/Navbar';
 import Footer from '../components/global/Footer';
 
 // Pages
-import Homepage from '../components/home/Homepage';
+import Homepage from '../pages/Homepage';
 
 
 const Setup = () => {
